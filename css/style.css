@@ -1,0 +1,123 @@
+body {
+  font-family:american typewiter;
+  background-color: lightgrey;
+  color:Black;
+}
+
+button {
+  background-color: Green;
+  font-size: 15px;
+  border-radius: 35%;
+
+}
+button:hover {
+  background-color: DarkGreen;
+}
+.startedout {
+text-align: center;
+
+}
+.signup-link:hover {
+  color: purple;
+}
+.video-page {
+  font-family: Arial;
+  color:Black;
+  background-color: LightGrey;
+}
+.juangif1 {
+  background-image: url('../gifs/juanvjesus.gif');
+  background-size: auto;
+  height: 200px
+}
+.b1tlogo {
+  background-image: url('../pictures/b1tlogo.png');
+  background-size: contain;
+  background-attachment: fixed;
+  height: 600px
+}
+h1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+h4 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.videos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center ;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.homepic {
+background-image: url('../pictures/steam-ark-key-art.jpg');
+  background-size: contain;
+  background-attachment: fixed;
+  height: 450px;
+  width: 100%;
+  background-repeat: no-repeat;
+background-position: center;
+}
+.about{
+  background-color:#333;
+  color:white;
+  margin-top: 25%;
+  font-size: 19px;
+}
+/* adds borders for rabs */
+.tab-content {
+  border-left: 1px solid #ddd
+  border-right: 1px solid #ddd
+  border-bottom: 1px solid #ddd
+  padding: 10px
+}
+
+.nav-tabs {
+  margin-bottom: 0;
+}
+.problempic {
+  background-image: url('../pictures/glenn-carstens-peters-203007.jpg');
+    background-size: contain;
+    background-attachment: fixed;
+    height: 450px;
+    width: 100%;
+    background-repeat: no-repeat;
+  background-position: center;
+  }
+  .potatopic {
+    background-image: url('../pictures/harrypotato.png');
+      background-size: contain;
+      background-attachment: fixed;
+      height: 450px;
+      width: 100%;
+      background-repeat: no-repeat;
+    background-position: center;
+    }
+    .trollpic {
+      background-image: url('../pictures/trollface.png');
+        background-size: contain;
+        background-attachment: fixed;
+        height: 450px;
+        width: 100%;
+        background-repeat: no-repeat;
+      background-position: center;
+      }
+      .sadpotatopic {
+        background-image: url('../pictures/sadpotato2.png');
+          background-size: contain;
+          background-attachment: fixed;
+          height: 450px;
+          width: 100%;
+          background-repeat: no-repeat;
+        background-position: center;
+        }
+}
